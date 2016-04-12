@@ -1,6 +1,8 @@
 # char-rnn-tensorflow
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow.
 
+Test a live online model here: http://www.somatic.io/models/V7Zx4Z9A
+
 Inspired from Andrej Karpathy's [char-rnn](https://github.com/karpathy/char-rnn).
 
 # Requirements
