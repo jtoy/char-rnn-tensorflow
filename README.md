@@ -16,3 +16,4 @@ To sample from a checkpointed model, `python sample.py`.
 - Add explanatory comments
 - Expose more command-line arguments
 - Compare accuracy and performance with char-rnn
+
